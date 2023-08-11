@@ -1,2 +1,2 @@
-# NikeClone-Css
- A clone of nike website with pure CSS 
+# Nike Website with pure Css
+ Project status: Incomplete
